@@ -1,5 +1,5 @@
 
-<a href="https://linkedin.com/in/tomas-ondrejka">
+<a href="https://www.linkedin.com/in/ranjeet-singh-71b68a239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByeS938jsQFGEyM3Ex6bOiw%3D%3D">
   <img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
 </a>
 
