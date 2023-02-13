@@ -8,7 +8,6 @@
 ranjeet7287/ranjeet7287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -->
  "I'm not afraid of death, I'm afraid of time"
 Don't be scared of death, because most likely your physical death will lead to a new beginning.
 Be scared of time, time for all of us 3 dimensional beings is running out, every second brings us closer to death, so while we have time, make the most of it.
