@@ -15,3 +15,10 @@ Be scared of time, time for all of us 3 dimensional beings is running out, every
 We can die any time, so help someone, hug someone, do thing you've always wanted to do, talk to people, explore the world, relax.
 Because when we die, all of that is over.
 Don't die with regrets, and don't live with them either.
+
+CPP
+JavaScript
+Python
+React Js
+React Native
+Django
