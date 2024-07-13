@@ -88,7 +88,7 @@
     <a href="https://github.com/ranjeet7287">
         <img src="https://komarev.com/ghpvc/?username=ranjeet7287&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeet7287" />
     </a>
-    <a href="https://github.com/geekyshow1?tab=followers">
+    <a href="https://github.com/ranjeet7287?tab=followers">
         <img src="https://img.shields.io/github/followers/ranjeet7287?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
